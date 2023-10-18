@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #ffffff;
+    padding: 20px;
+    border-bottom: 4px solid #0056b3;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navbar-nav{
+    font-size:18px;
+    font-weight: 400;
+}
+
+
+.navbar-nav li a{
+    padding:5px 25px;
+
+    border-radius: 5px;
+
+    margin:0px 10px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.navbar-nav .active a{
+   
+    background-color: #8019c8;
+    color: white;
+ 
+}
+
+.navbar-nav a:hover{
+   
+    background-color: #8019c8;
+    color: white;
+ 
+}
+
