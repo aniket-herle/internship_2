@@ -1,4 +1,4 @@
-###MotionCut Internship Project 2 - Product Page
+##MotionCut Internship Project 2 - Product Page
 Welcome to the repository for my second internship project at MotionCut! In this project, I had the exciting opportunity to create a fully functional product page with a range of features.
 
 Features
